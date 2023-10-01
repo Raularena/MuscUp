@@ -1,0 +1,5136 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Frame 14 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 28px;
+gap: 10px;
+
+position: absolute;
+width: 221px;
+height: 64px;
+left: 609px;
+top: 888px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA AHORA */
+
+width: 165px;
+height: 46px;
+
+font-family: 'League Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 38px;
+line-height: 46px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* TERAPIA 1 */
+
+position: absolute;
+width: 1440px;
+height: 775px;
+left: 0px;
+top: 113px;
+
+background: url(TERAPIA.png);
+
+
+/* New Page */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1440px;
+height: 520.9px;
+left: 684.28px;
+top: 1097.46px;
+
+background: #FFFFFF;
+border-radius: 0px;
+
+
+/* New Page */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1440px;
+height: 520.9px;
+left: 684.28px;
+top: 1097.46px;
+
+background: #FFFFFF;
+border-radius: 0px;
+
+
+/* New Page */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1440px;
+height: 520.9px;
+left: 684.28px;
+top: 1097.46px;
+
+background: #FFFFFF;
+border-radius: 0px;
+
+
+/* Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 64px 24px 8px;
+gap: 40px;
+
+position: absolute;
+width: 1440px;
+height: 326px;
+left: 7347.97px;
+top: 2089.14px;
+
+background: #F5F7FA;
+border-radius: 0px;
+
+
+/* Columns */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 960px;
+height: 161px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 320px;
+height: 52px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo Wrapper */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16px 0px 0px;
+
+width: 141px;
+height: 52px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 141px;
+height: 36px;
+
+background: url(.png);
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Small Columns */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16px 0px 0px;
+gap: 32px;
+
+margin: 0 auto;
+width: 600px;
+height: 161px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 178.67px;
+height: 116px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 178.67px;
+height: 116px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* COMPANY */
+
+width: 178.67px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Footer Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 178.67px;
+height: 79px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 178.67px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 178.67px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 178.67px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 178.67px;
+height: 145px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 178.67px;
+height: 145px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* RESOURCES */
+
+width: 178.67px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Footer Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 178.67px;
+height: 108px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 178.67px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 178.67px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 178.67px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 178.67px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 178.67px;
+height: 87px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 178.67px;
+height: 87px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* ABOUT */
+
+width: 178.67px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Footer Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 178.67px;
+height: 50px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 129px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+width: 92px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #212121;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Copyright */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 0px;
+gap: 32px;
+
+width: 940px;
+height: 53px;
+
+filter: drop-shadow(0px -1px 0px #E4EBF3);
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 940px;
+height: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+text-align: center;
+
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Desktop - 18 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* SOBRE NOSOTROS */
+
+position: absolute;
+width: 431px;
+height: 72px;
+left: 504px;
+top: 179px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 897px;
+height: 492px;
+left: 271px;
+top: 317px;
+
+background: #D9D9D9;
+
+
+/* Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 64px 0px;
+
+position: absolute;
+width: 1440px;
+height: 176px;
+left: 1432.78px;
+top: 1104.31px;
+
+border-radius: 0px;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+
+width: 1200px;
+height: 48px;
+
+background: #F8F8F8;
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* New Page */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1440px;
+height: 520.9px;
+left: 1432.78px;
+top: 931.86px;
+
+background: #FFFFFF;
+border-radius: 0px;
+
+
+/* Desktop - 3 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* LA NUEVA GENERACIÓN DE LA HIPERTROFIA */
+
+position: absolute;
+width: 338px;
+height: 39px;
+left: 551px;
+top: 190px;
+
+font-family: 'Sans Serif Collection';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 39px;
+display: flex;
+align-items: center;
+
+color: #1F1B1B;
+
+
+
+/* TRADICIÓN JUNTO A TECNOLOGÍA */
+
+position: absolute;
+width: 269px;
+height: 24px;
+left: 232px;
+top: 527px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #1F1B1B;
+
+
+
+/* Mejorar en el gimnasio nunca había sido tan fácil. */
+
+position: absolute;
+width: 636px;
+height: 120px;
+left: 402px;
+top: 229px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.05em;
+
+color: #1F1B1B;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 445px;
+height: 438px;
+left: 825px;
+top: 478px;
+
+background: #9D4141;
+
+
+/* Ventosas-el-ctricas-para-masaje-corporal-masajeador-de-terapia-anticelulitis-para-cuerpo-Guasha-el-ctrico-raspado-removebg-preview (1) 1 */
+
+position: absolute;
+width: 680px;
+height: 680px;
+left: 639px;
+top: 492.74px;
+
+background: url(Ventosas-el-ctricas-para-masaje-corporal-masajeador-de-terapia-anticelulitis-para-cuerpo-Guasha-el-ctrico-raspado-removebg-preview (1).png);
+transform: rotate(-14.8deg);
+
+
+/* La MuscUp Cup. */
+
+position: absolute;
+width: 384px;
+height: 72px;
+left: 174px;
+top: 558px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #1F1B1B;
+
+
+
+/* ¿Buscas un forma de recuperar tus músculos y aliviar el dolor muscular mas rápido? La MuscUp Cup es un masajeador de ventosa que mezcla un gran poder de succión con la terapia de luz roja. */
+
+position: absolute;
+width: 425px;
+height: 144px;
+left: 154px;
+top: 645px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 32px;
+gap: 10px;
+
+position: absolute;
+width: 178px;
+height: 46px;
+left: 277px;
+top: 821px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA YA */
+
+width: 114px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Desktop - 2 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 266px;
+height: 287px;
+left: 103px;
+top: 207px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 266px;
+height: 287px;
+left: 103px;
+top: 628px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 267px;
+height: 287px;
+left: 587px;
+top: 628px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 267px;
+height: 287px;
+left: 587px;
+top: 207px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 266px;
+height: 287px;
+left: 1072px;
+top: 628px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 266px;
+height: 287px;
+left: 1072px;
+top: 207px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+
+/* incrementa tu circulación */
+
+position: absolute;
+width: 296px;
+height: 36px;
+left: 88px;
+top: 522px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Quítate el Dolor de Espalda */
+
+position: absolute;
+width: 297px;
+height: 36px;
+left: 1056px;
+top: 937px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+
+
+/* deshazte de nudos */
+
+position: absolute;
+width: 216px;
+height: 36px;
+left: 613px;
+top: 937px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+
+
+/* libérate de toxinas */
+
+position: absolute;
+width: 215px;
+height: 36px;
+left: 129px;
+top: 937px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+
+
+/* Mejora en el Gimnasio */
+
+position: absolute;
+width: 244px;
+height: 36px;
+left: 1083px;
+top: 522px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Recupera tus músculos */
+
+position: absolute;
+width: 264px;
+height: 36px;
+left: 588px;
+top: 522px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Diseño sin título (10) */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 587px;
+top: 207px;
+
+background: url(5.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* 6 10 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 1066px;
+top: 207px;
+
+background: url(6.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* 1 1 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 1066px;
+top: 628px;
+
+background: url(1.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* 4 5 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 82px;
+top: 207px;
+
+background: url(4.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* 2 1 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 82px;
+top: 628px;
+
+background: url(2.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* 3 1 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 577px;
+top: 628px;
+
+background: url(3.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* Desktop - 4 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* 9D4141-removebg-preview 1 */
+
+position: absolute;
+width: 347px;
+height: 347px;
+left: 141px;
+top: 204px;
+
+background: url(9D4141-removebg-preview.png);
+
+
+/* 9D4141 (2) 1 */
+
+position: absolute;
+width: 347px;
+height: 347px;
+left: 547px;
+top: 204px;
+
+background: url(9D4141 (2).png);
+
+
+/* 9D4141 (3) 1 */
+
+position: absolute;
+width: 347px;
+height: 347px;
+left: 953px;
+top: 204px;
+
+background: url(9D4141 (3).png);
+
+
+/* Diseñado para sacar los mejores resultados */
+
+position: absolute;
+width: 796px;
+height: 54px;
+left: 322px;
+top: 204px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+color: #1F1B1B;
+
+
+
+/* Control de calor inteligente */
+
+position: absolute;
+width: 304px;
+height: 36px;
+left: 170px;
+top: 468px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+letter-spacing: -0.05em;
+
+color: #1F1B1B;
+
+
+
+/* Completamente ajustable */
+
+position: absolute;
+width: 300px;
+height: 36px;
+left: 977px;
+top: 468px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+letter-spacing: -0.05em;
+
+color: #1F1B1B;
+
+
+
+/* Para una mejor circulación */
+
+position: absolute;
+width: 304px;
+height: 36px;
+left: 574px;
+top: 468px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+letter-spacing: -0.05em;
+
+color: #1F1B1B;
+
+
+
+/* Apta para un masaje relajante o una terapia de succión potente */
+
+position: absolute;
+width: 307px;
+height: 63px;
+left: 170px;
+top: 512px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Ajústalo según tus necesidades. Apto para uso profesional y doméstico. */
+
+position: absolute;
+width: 307px;
+height: 63px;
+left: 977px;
+top: 512px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Comprobado que alivia la fatiga muscular y el dolor corporal */
+
+position: absolute;
+width: 307px;
+height: 63px;
+left: 568px;
+top: 512px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* AMADO POR LOS CLIENTES */
+
+position: absolute;
+width: 189px;
+height: 23px;
+left: 621px;
+top: 682px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Confiado Por Expertos */
+
+position: absolute;
+width: 357px;
+height: 48px;
+left: 537px;
+top: 705px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+text-align: center;
+
+color: #1F1B1B;
+
+
+
+/* Testimonio de clientes */
+
+position: absolute;
+width: 563px;
+height: 134px;
+left: 434px;
+top: 789px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Diseño sin título (15) */
+
+position: absolute;
+width: 1080px;
+height: 1080px;
+left: 715px;
+top: -536px;
+
+
+
+/* Desktop - 5 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Frame 2 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 7px 17px;
+gap: 10px;
+
+position: absolute;
+width: 164px;
+height: 50px;
+left: 638px;
+top: 382px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA AHORA */
+
+width: 130px;
+height: 36px;
+
+font-family: 'League Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 1440px;
+height: 292px;
+left: 0px;
+top: 732px;
+
+background: #1F1B1B;
+
+
+/* úNETE A NUESTRA COMUNIDAD */
+
+position: absolute;
+width: 515px;
+height: 54px;
+left: 463px;
+top: 801px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Captura_de_pantalla_2023-09-27_065835-removebg-preview 1 */
+
+position: absolute;
+width: 48px;
+height: 28px;
+left: 696px;
+top: 764px;
+
+background: url(Captura_de_pantalla_2023-09-27_065835-removebg-preview.png);
+
+
+/* Line 1 */
+
+position: absolute;
+width: 418px;
+height: 0px;
+left: calc(50% - 418px/2);
+top: calc(50% - 0px/2 + 411px);
+
+background: #D9D9D9;
+border: 1px solid #FFFFFF;
+
+
+/* Email */
+
+position: absolute;
+width: 74px;
+height: 12px;
+left: 511px;
+top: 905px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.9);
+
+
+
+/* Únete */
+
+position: absolute;
+width: 42px;
+height: 21px;
+left: 887px;
+top: 900px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Desktop - 6 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 444px;
+height: 365px;
+left: 498px;
+top: 161px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 266px;
+height: 287px;
+left: 587px;
+top: 161px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+
+
+/* incrementa tu circulación */
+
+position: absolute;
+width: 444px;
+height: 54px;
+left: 498px;
+top: 472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+
+
+/* La MuscUp Cup está especialmente diseñada para producir un aumento de la circulación Cuando la ventosa se coloca en la piel y se crea vacío, los vasos sanguíneos se expanden Esta expansión de los vasos, conocida como vasodilatación, permite un mayor flujo de sangre a través de ellos, lo que otorga una mayor energía y vitalidad y una piel mas saludable */
+
+position: absolute;
+width: 866px;
+height: 364px;
+left: 287px;
+top: 560px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 32px;
+gap: 10px;
+
+position: absolute;
+width: 178px;
+height: 46px;
+left: 630px;
+top: 900px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA YA */
+
+width: 114px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 4 6 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 576px;
+top: 161px;
+
+background: url(4.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* Desktop - 7 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 396px;
+height: 365px;
+left: 522px;
+top: 161px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 266px;
+height: 287px;
+left: 587px;
+top: 161px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+
+
+/* Recupera tus músculos */
+
+position: absolute;
+width: 396px;
+height: 54px;
+left: 522px;
+top: 472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+
+
+/* La función principal de la MuscUp Cup es el aumento de la recuperación muscular. Pero, ¿por qué es esto tan importante? Una buena recuperación muscular es fundamental para maximizar tus resultados en el gimnasio, ya que estos se dan al tus músculos reconstruir las fibras musculares micro-desgarradas durante el entrenamiento Y por suerte la MuscUp Cup acelera este proceso en un 90% para que siempre estés descansado para tu próximo entrenamiento */
+
+position: absolute;
+width: 866px;
+height: 364px;
+left: 287px;
+top: 548px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 32px;
+gap: 10px;
+
+position: absolute;
+width: 178px;
+height: 46px;
+left: 630px;
+top: 888px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA YA */
+
+width: 114px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Diseño sin título (10) */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 566px;
+top: 161px;
+
+background: url(5.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* Desktop - 8 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 365px;
+height: 365px;
+left: 537px;
+top: 161px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 266px;
+height: 287px;
+left: 587px;
+top: 161px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+
+
+/* Mejora en el gimnasio */
+
+position: absolute;
+width: 365px;
+height: 54px;
+left: 537px;
+top: 472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+
+
+/* ¿Siempre has querido el físico de tus sueños, pero por mucho que entrenas y entrenas, te quedas estancado y no sabes como mejorar? Pues la MuscUp Cup te soluciona ese problema Su diseño realizado al detalle previene todo tipo de lesiones musculares, acelera el proceso de recuperación en un 90% para que siempre estés listo para el siguiente entrenamiento y reduce drásticamente el dolor de espalda. A que estas esperando, tienes el físico de tus sueños a un solo click. */
+
+position: absolute;
+width: 866px;
+height: 364px;
+left: 287px;
+top: 560px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 32px;
+gap: 10px;
+
+position: absolute;
+width: 178px;
+height: 46px;
+left: 630px;
+top: 900px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA YA */
+
+width: 114px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 6 11 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 576px;
+top: 161px;
+
+background: url(6.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* Desktop - 9 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 323px;
+height: 365px;
+left: 558px;
+top: 161px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 266px;
+height: 287px;
+left: 587px;
+top: 161px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+
+
+/* libérate de toxinas */
+
+position: absolute;
+width: 323px;
+height: 54px;
+left: 558px;
+top: 472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+
+
+/* ¿Sabías que tiene miles de toxinas ocultas en la sangre? Pues si hay miles y miles de estas ocultas en la sangre y esto empeora la salud de tu piel, empeora tu estado de ánimo, empeora tu función renal e incluso empeora los procesos metabólicos lo que se traduce en una ganancia de peso Pero la MuscUp Cup está ahí para quitarte todas esas toxinas no deseadas de tu cuerpo para darte mas energía, una piel mas saludable y nu mejor rendimiento deportivo */
+
+position: absolute;
+width: 866px;
+height: 364px;
+left: 287px;
+top: 560px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 32px;
+gap: 10px;
+
+position: absolute;
+width: 178px;
+height: 46px;
+left: 630px;
+top: 900px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA YA */
+
+width: 114px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 2 2 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 576px;
+top: 161px;
+
+background: url(2.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* Desktop - 10 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 324px;
+height: 365px;
+left: 558px;
+top: 161px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 266px;
+height: 287px;
+left: 587px;
+top: 161px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+
+
+/* Deshazte de nudos */
+
+position: absolute;
+width: 324px;
+height: 54px;
+left: 558px;
+top: 472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+
+
+/* ¿Tienes la espalda repleta de nudos causados por el estrés del día a día? Te traemos la solución, aplicándote la MuscUp Cup durante 20 minutos al día puedes conseguir una sensación de ligereza y bienestar que ningún fisioterapeuta podría llegar a igualar Rejuvenece tu cuerpo y recupera tu flexibilidad gracias a la MuscUp Cup ¿Qué mejor inversión puedes hacer que mejorar tu salud? */
+
+position: absolute;
+width: 866px;
+height: 364px;
+left: 287px;
+top: 560px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 32px;
+gap: 10px;
+
+position: absolute;
+width: 178px;
+height: 46px;
+left: 630px;
+top: 900px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA YA */
+
+width: 114px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 3 2 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 575px;
+top: 161px;
+
+background: url(3.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* Desktop - 11 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 445px;
+height: 365px;
+left: 497px;
+top: 161px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 266px;
+height: 287px;
+left: 587px;
+top: 161px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+
+
+/* Quítate el dolor de espalda */
+
+position: absolute;
+width: 445px;
+height: 54px;
+left: 497px;
+top: 472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: capitalize;
+
+color: #1F1B1B;
+
+
+
+/* ¿El dolor de espalda te molesta en tu dís a día y llega incluso a empeorar tu desempeño en el gimnasio? Olvídate de no poder hacer ejercicios como la sentadilla o el peso muerto gracias a la MuscUp Cup Su terapia de luz roja llega hasta la última capa muscular y gracias al calor aplicado alivia completamente la zona afectada. Quítate el dolor de tu espalda y saca tu mejor versión */
+
+position: absolute;
+width: 866px;
+height: 364px;
+left: 287px;
+top: 552px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 32px;
+gap: 10px;
+
+position: absolute;
+width: 178px;
+height: 46px;
+left: 630px;
+top: 892px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA YA */
+
+width: 114px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 1 2 */
+
+position: absolute;
+width: 287px;
+height: 287px;
+left: 575px;
+top: 161px;
+
+background: url(1.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 50px;
+
+
+/* Desktop - 12 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* MuscUp©️ Cup */
+
+position: absolute;
+width: 275px;
+height: 60px;
+left: 720px;
+top: 151px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #9D4141;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 590px;
+height: 560px;
+left: 77px;
+top: 181px;
+
+background: #D9D9D9;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 720px;
+top: 208px;
+
+background: rgba(246, 188, 38, 0.9);
+border-radius: 2px;
+
+
+/* Star 2 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 840px;
+top: 208px;
+
+background: rgba(246, 188, 38, 0.9);
+border-radius: 2px;
+
+
+/* Star 3 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 810px;
+top: 208px;
+
+background: rgba(246, 188, 38, 0.9);
+border-radius: 2px;
+
+
+/* Star 4 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 780px;
+top: 208px;
+
+background: rgba(246, 188, 38, 0.9);
+border-radius: 2px;
+
+
+/* Star 5 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 750px;
+top: 208px;
+
+background: rgba(246, 188, 38, 0.9);
+border-radius: 2px;
+
+
+/* 44,99 € */
+
+position: absolute;
+width: 94px;
+height: 36px;
+left: 725px;
+top: 248px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #1F1B1B;
+
+
+
+/* 69,99 € */
+
+position: absolute;
+width: 92px;
+height: 36px;
+left: 831px;
+top: 248px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-decoration-line: line-through;
+
+color: #1E1E1E;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 30.15px;
+height: 0px;
+left: 825px;
+top: 278.15px;
+
+border: 1px solid #000000;
+transform: rotate(-90deg);
+
+
+/* ¡Envío Gratis! */
+
+position: absolute;
+width: 89px;
+height: 21px;
+left: 725px;
+top: 284px;
+
+font-family: 'Poppins';
+font-style: italic;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* La MuscUp Cup lleva la terapia de ventosas de nivel profesional a la comodidad de tu hogar. Hemos combinado tecnología de succión, la terapia de calor, la terapia con luz roja y un sistema de vibración en un dispositivo fácil de usar para brindar la experiencia de recuperación y alivio del dolor localizado más óptimo. */
+
+position: absolute;
+width: 543px;
+height: 174px;
+left: 720px;
+top: 319px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 377px;
+height: 55px;
+left: 707px;
+top: 501px;
+
+
+
+/* 9D4141 (5) 1 */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 707px;
+top: 501px;
+
+background: url(9D4141 (5).png);
+
+
+/* Alivia Nudos y Dolores Musculares */
+
+position: absolute;
+width: 322px;
+height: 29px;
+left: 762px;
+top: 514px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 321px;
+height: 55px;
+left: 707px;
+top: 539px;
+
+
+
+/* 9D4141 (5) 2 */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 707px;
+top: 539px;
+
+background: url(9D4141 (5).png);
+
+
+/* Aumenta el Flujo Sanguíneo */
+
+position: absolute;
+width: 266px;
+height: 29px;
+left: 762px;
+top: 552px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 372px;
+height: 55px;
+left: 707px;
+top: 577px;
+
+
+
+/* 9D4141 (5) 3 */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 707px;
+top: 577px;
+
+background: url(9D4141 (5).png);
+
+
+/* Mejora la Recuperación Muscular */
+
+position: absolute;
+width: 317px;
+height: 29px;
+left: 762px;
+top: 590px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 296px;
+height: 55px;
+left: 707px;
+top: 615px;
+
+
+
+/* 9D4141 (5) 4 */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 707px;
+top: 615px;
+
+background: url(9D4141 (5).png);
+
+
+/* Satisfacción Garantizada */
+
+position: absolute;
+width: 241px;
+height: 29px;
+left: 762px;
+top: 628px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 513px;
+height: 45px;
+left: 720px;
+top: 680px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 513px;
+height: 45px;
+left: 720px;
+top: 680px;
+
+background: #D9D9D9;
+border-radius: 4px;
+
+
+/* Line 3 */
+
+position: absolute;
+width: 15px;
+height: 0px;
+left: 1187px;
+top: 702.92px;
+
+border: 1px solid #000000;
+
+
+/* Line 5 */
+
+position: absolute;
+width: 12.74px;
+height: 0px;
+left: 1194.5px;
+top: 709.29px;
+
+border: 1px solid #000000;
+transform: rotate(-90deg);
+
+
+/* Line 4 */
+
+position: absolute;
+width: 15px;
+height: 0px;
+left: 734.99px;
+top: 702.5px;
+
+border: 1px solid #1F1B1B;
+
+
+/* 1 */
+
+position: absolute;
+width: 8px;
+height: 16.13px;
+left: 964px;
+top: 693.58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+
+
+
+/* Frame 9 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 7px 147px;
+gap: 10px;
+
+position: absolute;
+width: 495px;
+height: 44px;
+left: 720px;
+top: 739px;
+
+background: #9D4141;
+border-radius: 20px;
+
+
+/* AÑADIR AL CARRITO */
+
+width: 201px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 513px;
+height: 47px;
+left: 720px;
+top: 820px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 513px;
+height: 47px;
+left: 720px;
+top: 867px;
+
+background: #FFFFFF;
+
+
+/* Group 10 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 1188px;
+top: 837px;
+
+
+
+/* Line 4 */
+
+position: absolute;
+width: 15px;
+height: 0px;
+left: 1188px;
+top: 845px;
+
+border: 1px solid #1F1B1B;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 15px;
+height: 0px;
+left: 1196px;
+top: 852px;
+
+border: 1px solid #1F1B1B;
+transform: rotate(-90deg);
+
+
+/* Group 11 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 1189px;
+top: 884px;
+
+
+
+/* Line 4 */
+
+position: absolute;
+width: 15px;
+height: 0px;
+left: 1189px;
+top: 892px;
+
+border: 1px solid #1F1B1B;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 15px;
+height: 0px;
+left: 1197px;
+top: 899px;
+
+border: 1px solid #1F1B1B;
+transform: rotate(-90deg);
+
+
+/* Devoluciones */
+
+position: absolute;
+width: 103px;
+height: 23px;
+left: 741px;
+top: 835px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Especificaciones */
+
+position: absolute;
+width: 128px;
+height: 23px;
+left: 741px;
+top: 882px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 513px;
+height: 47px;
+left: 720px;
+top: 914px;
+
+background: #FFFFFF;
+
+
+/* Group 12 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 1189px;
+top: 931px;
+
+
+
+/* Line 4 */
+
+position: absolute;
+width: 15px;
+height: 0px;
+left: 1189px;
+top: 939px;
+
+border: 1px solid #1F1B1B;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 15px;
+height: 0px;
+left: 1197px;
+top: 946px;
+
+border: 1px solid #1F1B1B;
+transform: rotate(-90deg);
+
+
+/* Detalles de la entrega */
+
+position: absolute;
+width: 167px;
+height: 23px;
+left: 741px;
+top: 929px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Desktop - 13 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 404px;
+height: 485px;
+left: 154px;
+top: 204px;
+
+background: #D9D9D9;
+
+
+/* PRESENTAMOS LA MUSCUP©️ CUP */
+
+position: absolute;
+width: 273px;
+height: 23px;
+left: 720px;
+top: 240px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.1em;
+
+color: #1F1B1B;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 377px;
+height: 55px;
+left: 702px;
+top: 321px;
+
+
+
+/* 9D4141 (5) 1 */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 702px;
+top: 321px;
+
+background: url(9D4141 (5).png);
+
+
+/* Alivia Nudos y Dolores Musculares */
+
+position: absolute;
+width: 322px;
+height: 29px;
+left: 757px;
+top: 334px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 321px;
+height: 55px;
+left: 702px;
+top: 376px;
+
+
+
+/* 9D4141 (5) 2 */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 702px;
+top: 376px;
+
+background: url(9D4141 (5).png);
+
+
+/* Aumenta el Flujo Sanguíneo */
+
+position: absolute;
+width: 266px;
+height: 29px;
+left: 757px;
+top: 389px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 372px;
+height: 55px;
+left: 702px;
+top: 431px;
+
+
+
+/* 9D4141 (5) 3 */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 702px;
+top: 431px;
+
+background: url(9D4141 (5).png);
+
+
+/* Mejora la Recuperación Muscular */
+
+position: absolute;
+width: 317px;
+height: 29px;
+left: 757px;
+top: 444px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 241px;
+height: 55px;
+left: 702px;
+top: 486px;
+
+
+
+/* 9D4141 (5) 4 */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 702px;
+top: 486px;
+
+background: url(9D4141 (5).png);
+
+
+/* Mejora tu Movilidad */
+
+position: absolute;
+width: 186px;
+height: 29px;
+left: 757px;
+top: 499px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 380px;
+height: 55px;
+left: 702px;
+top: 541px;
+
+
+
+/* 9D4141 (5) 4 */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 702px;
+top: 541px;
+
+background: url(9D4141 (5).png);
+
+
+/* Diseño Ergonómico y Fácil de Usar */
+
+position: absolute;
+width: 325px;
+height: 29px;
+left: 757px;
+top: 554px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Consigue el Físico de tus Sueños */
+
+position: absolute;
+width: 463px;
+height: 42px;
+left: 716px;
+top: 271px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 7px 32px;
+gap: 10px;
+
+position: absolute;
+width: 220px;
+height: 44px;
+left: 720px;
+top: 614px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA ahora */
+
+width: 156px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 1440px;
+height: 260px;
+left: 0px;
+top: 764px;
+
+background: #9D4141;
+
+
+/* Respaldado Por Estudios Clínicos */
+
+position: absolute;
+width: 543px;
+height: 48px;
+left: 458px;
+top: 805px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Durante los últimos 10 años, docenas de estudios clínicos han concluido que las ventosas conducen a una disminución de la actividad muscular, lo que resulta en una reducción del dolor, una reducción de la inflamación y una tasa de recuperación acelerada. MuscUp© ️informó resultados aún mejores en las pruebas realizadas por consumidores. */
+
+position: absolute;
+width: 778px;
+height: 104px;
+left: 341px;
+top: 871px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* image (2) (1) 1 */
+
+position: absolute;
+width: 404px;
+height: 485px;
+left: 154px;
+top: 204px;
+
+background: url(image (2) (1).png);
+
+
+/* Desktop - 14 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* 93% */
+
+position: absolute;
+width: 73px;
+height: 54px;
+left: 304px;
+top: 194px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #9D4141;
+
+
+
+/* 79% */
+
+position: absolute;
+width: 72px;
+height: 54px;
+left: 1049px;
+top: 194px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #9D4141;
+
+
+
+/* 87% */
+
+position: absolute;
+width: 72px;
+height: 54px;
+left: 677px;
+top: 194px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #9D4141;
+
+
+
+/* Reportó un alivio significativo del dolor después de 20 minutos. */
+
+position: absolute;
+width: 335px;
+height: 54px;
+left: 173px;
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Reportó una mayor movilidad y flexibilidad en las articulaciones. */
+
+position: absolute;
+width: 335px;
+height: 54px;
+left: 545px;
+top: 260px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Reportó una recuperación más rápida después de los entrenamientos. */
+
+position: absolute;
+width: 355px;
+height: 54px;
+left: 917px;
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Como Funciona: */
+
+position: absolute;
+width: 201px;
+height: 36px;
+left: 767px;
+top: 486px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1F1B1B;
+
+
+
+/* La MuscUp©️ Cup es el dispositivo de ventosas aprobado para uso doméstico que combina 4 tecnologías clínicamente probadas para ayudar a aliviar la tensión muscular en el cuerpo y estimular la circulación sanguínea, lo que ayuda eficazmente en la recuperación muscular y el alivio del dolor, además también estimula la descomposición química de las toxinas en el interior del cuerpo y disminuye el nivel de inflamación permitiendo un rango de movimiento más amplio. */
+
+position: absolute;
+width: 573px;
+height: 270px;
+left: 767px;
+top: 536px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5px 15px;
+gap: 10px;
+
+position: absolute;
+width: 140px;
+height: 31px;
+left: 767px;
+top: 845px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA ahora */
+
+width: 110px;
+height: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Añadir un título (1) 1 */
+
+position: absolute;
+width: 550px;
+height: 550px;
+left: 127px;
+top: 474px;
+
+background: url(Añadir un título (1).png);
+
+
+/* Desktop - 15 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Diseño sin título (10) 1 */
+
+position: absolute;
+width: 1440px;
+height: 484px;
+left: 0px;
+top: 540px;
+
+background: url(Diseño sin título (10).png);
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 1440px;
+height: 428px;
+left: 0px;
+top: 112px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Alivia. Recupera. Restaura. */
+
+position: absolute;
+width: 490px;
+height: 54px;
+left: 475px;
+top: 156px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #1F1B1B;
+
+
+
+/* Group 13 */
+
+position: absolute;
+width: 1095px;
+height: 166px;
+left: 123px;
+top: 296px;
+
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 225px;
+height: 166px;
+left: 123px;
+top: 296px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 225px;
+height: 166px;
+left: 993px;
+top: 296px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 225px;
+height: 166px;
+left: 703px;
+top: 296px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 225px;
+height: 166px;
+left: 413px;
+top: 296px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* 9D4141 (9) 1 */
+
+position: absolute;
+width: 350px;
+height: 350px;
+left: 641px;
+top: 112px;
+
+background: url(9D4141 (9).png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* 9D4141 (7) 1 */
+
+position: absolute;
+width: 350px;
+height: 350px;
+left: 931px;
+top: 112px;
+
+background: url(9D4141 (7).png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* 9D4141 (6) 1 */
+
+position: absolute;
+width: 350px;
+height: 350px;
+left: 63px;
+top: 112px;
+
+background: url(9D4141 (6).png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* 9D4141 (8) 1 */
+
+position: absolute;
+width: 350px;
+height: 350px;
+left: 353px;
+top: 112px;
+
+background: url(9D4141 (8).png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* TERAPIA */
+
+position: absolute;
+width: 77px;
+height: 30px;
+left: 197px;
+top: 349px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* LUZ ROJA */
+
+position: absolute;
+width: 94px;
+height: 30px;
+left: 189px;
+top: 371px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9D4141;
+
+
+
+/* SUCCIÓN */
+
+position: absolute;
+width: 91px;
+height: 30px;
+left: 482px;
+top: 349px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* MASAGE CON */
+
+position: absolute;
+width: 133px;
+height: 30px;
+left: 750px;
+top: 349px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* TERAPEUTICO */
+
+position: absolute;
+width: 129px;
+height: 30px;
+left: 1042px;
+top: 371px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* CALOR */
+
+position: absolute;
+width: 68px;
+height: 30px;
+left: 1072px;
+top: 349px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9D4141;
+
+
+
+/* VIBRACIÓN */
+
+position: absolute;
+width: 112px;
+height: 30px;
+left: 760px;
+top: 371px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9D4141;
+
+
+
+/* DINÁMICA */
+
+position: absolute;
+width: 103px;
+height: 30px;
+left: 476px;
+top: 371px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #9D4141;
+
+
+
+/* Libera toxinas y quita las células grasas. */
+
+position: absolute;
+width: 188px;
+height: 40px;
+left: 434px;
+top: 401px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1F1B1B;
+
+
+
+/* Alivia la tensión y libera nudos musculares. */
+
+position: absolute;
+width: 188px;
+height: 40px;
+left: 722px;
+top: 401px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1F1B1B;
+
+
+
+/* Aumenta el flujo sanguíneo para la recuperación muscular. */
+
+position: absolute;
+width: 217px;
+height: 34px;
+left: 998px;
+top: 404px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1F1B1B;
+
+
+
+/* Fomenta el crecimiento celular y la inmunidad. */
+
+position: absolute;
+width: 162px;
+height: 40px;
+left: 157px;
+top: 401px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 15 */
+
+position: absolute;
+width: 547px;
+height: 374px;
+left: 32px;
+top: 576px;
+
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 547px;
+height: 374px;
+left: 32px;
+top: 576px;
+
+background: #BFBFBF;
+border-radius: 20px;
+
+
+/* Las ventosas son un método terapéutico probado con beneficios sorprendentes, pero es hora de actualizarlo. La MuscUp©️ Cup combina este poderoso modo de terapia con varios módulos modernos y brinda al usuario un acceso conveniente a sus notables beneficios, en cualquier momento y con facilidad. */
+
+position: absolute;
+width: 397px;
+height: 208px;
+left: 76px;
+top: 655px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* MuscUp©️ Cup */
+
+position: absolute;
+width: 203px;
+height: 42px;
+left: 76px;
+top: 615px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #9D4141;
+
+
+
+/* Frame 2 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 16px;
+gap: 10px;
+
+position: absolute;
+width: 149px;
+height: 35px;
+left: 67px;
+top: 875px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA ahora */
+
+width: 117px;
+height: 23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Desktop - 16 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 1440px;
+height: 456px;
+left: 0px;
+top: 569px;
+
+background: #BFBFBF;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 223px;
+height: 49px;
+left: 635px;
+top: 889px;
+
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 199.8px;
+height: 49px;
+left: 635px;
+top: 889px;
+
+background: #9D4141;
+border: 1px solid #9D4141;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* COMPRA ahora */
+
+position: absolute;
+width: 201.09px;
+height: 36.75px;
+left: 656.91px;
+top: 895.12px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 30 */
+
+position: absolute;
+width: 590px;
+height: 457px;
+left: 0px;
+top: 568px;
+
+background: #D9D9D9;
+
+
+/* Terapia MuscUp Vs Terapia Tradicional */
+
+position: absolute;
+width: 795px;
+height: 60px;
+left: 322px;
+top: 178px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Este tratamiento probado con ventosas en casa ofrece increíbles beneficios y características: */
+
+position: absolute;
+width: 760px;
+height: 26px;
+left: 340px;
+top: 249px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* 9D4141 (10) 1 */
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 125px;
+top: 249px;
+
+background: url(9D4141 (10).png);
+
+
+/* 9D4141 (13) 1 */
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 455px;
+top: 249px;
+
+background: url(9D4141 (13).png);
+
+
+/* 9D4141 (12) 1 */
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 785px;
+top: 249px;
+
+background: url(9D4141 (12).png);
+
+
+/* 9D4141 (11) 1 */
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 1115px;
+top: 249px;
+
+background: url(9D4141 (11).png);
+
+
+/* Tratamientos rápidos y eficientes que suelen durar 15 minutos o menos. */
+
+position: absolute;
+width: 248px;
+height: 78px;
+left: 116px;
+top: 404px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Tratamientos convenientes que se disfrutan en la comodidad de su hogar. */
+
+position: absolute;
+width: 248px;
+height: 78px;
+left: 431px;
+top: 404px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Ahorre dinero reemplazando los tratamientos clínicos con MuscUp©️ para obtener resultados similares o mejores. */
+
+position: absolute;
+width: 275px;
+height: 92px;
+left: 1079px;
+top: 397px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Tecnología de última generación que eliminan el dolor. */
+
+position: absolute;
+width: 248px;
+height: 78px;
+left: 757px;
+top: 404px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* ¡Resultados o le Devolvemos su Dinero! */
+
+position: absolute;
+width: 505px;
+height: 39px;
+left: 635px;
+top: 622px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 39px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Gracias a nuestra Garantía de devolución de dinero de 30 días, tienes tiempo suficiente para experimentar y beneficiarte de nuestro producto. Si no está completamente satisfecho con los resultados, puede devolver el dispositivo dentro de los 30 días posteriores a la entrega para obtener un reembolso completo. */
+
+position: absolute;
+width: 530px;
+height: 196px;
+left: 635px;
+top: 672px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Foto producto (2)-fotor-20230930185549 2 */
+
+position: absolute;
+width: 590px;
+height: 503px;
+left: 0px;
+top: 568px;
+
+background: url(Foto producto (2)-fotor-20230930185549.png);
+
+
+/* Desktop - 17 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 76px;
+
+background: #1F1B1B;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #9D4141;
+
+
+/* TESTIMONIOS */
+
+position: absolute;
+width: 403px;
+height: 96px;
+left: 518px;
+top: 296px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 96px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* PREGUNTAS FRECUENTES */
+
+position: absolute;
+width: 736px;
+height: 96px;
+left: 352px;
+top: 731px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 96px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Foto producto (2)-fotor-20230930185549 1 */
+
+position: absolute;
+width: 5px;
+height: 5px;
+
+background: url(Foto producto (2)-fotor-20230930185549.png);
